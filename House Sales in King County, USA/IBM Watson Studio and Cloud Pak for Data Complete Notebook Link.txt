@@ -1,1 +1,1 @@
-IBM Watson Studio and Cloud Pak for Data Complete Notebook Link: [Link to Notebook](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/1e046d22-5fc4-40dc-aedf-0fdab3079a2f/view?access_token=a1365329d9b55ef082b459075f8ee49de5a3addecc2295cf0c9b81ead52d6165)
+IBM Watson Studio and Cloud Pak for Data Complete Notebook Link: [Link to Complete Notebook](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/1e046d22-5fc4-40dc-aedf-0fdab3079a2f/view?access_token=a1365329d9b55ef082b459075f8ee49de5a3addecc2295cf0c9b81ead52d6165)
